@@ -1,0 +1,12 @@
+Source Name: Lowell Qually Reviews
+Source Type: Rate My Professors
+URL or Description: Rate My Professors page for Lowell Qually at Caldwell University
+
+Content:
+Lowell Qually is listed on Rate My Professors for Caldwell University. The visible profile information shows 4 student ratings. One visible review for CS219 gives a quality score of 5.0 and difficulty score of 1.0. The student describes him as a great teacher, says they had him for multiple classes, and says he tries to help students understand the material. The student highly recommends him.
+
+Useful facts for RAG:
+- Professor: Lowell Qually
+- Ratings count visible: 4
+- Course mentioned: CS219
+- Common themes: helpful, great teacher, helps students understand, highly recommended, low difficulty in visible review

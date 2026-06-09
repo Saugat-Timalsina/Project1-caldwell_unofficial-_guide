@@ -1,0 +1,19 @@
+Source Name: Caldwell University Computer Science Department on Rate My Professors
+Source Type: Rate My Professors department search page
+URL or Description: Rate My Professors Computer Science department page for Caldwell University
+
+Content:
+The Rate My Professors Computer Science department search page for Caldwell University lists 19 professors. Visible professors include Arnold Toffler, Vladislav Veksler, Isaac Damoah, Michael Koskinen, and Gary Lieberman.
+
+Visible summary ratings:
+- Arnold Toffler: quality 3.5, 30 ratings, 60% would take again, 2.7 difficulty.
+- Vladislav Veksler: quality 5.0, 4 ratings, 100% would take again, 1.3 difficulty.
+- Isaac Damoah: quality 4.6, 19 ratings, 100% would take again, 2.0 difficulty.
+- Michael Koskinen: quality 3.6, 4 ratings, 50% would take again, 2.0 difficulty.
+- Gary Lieberman: quality 3.3, 4 ratings, 0% would take again, 3.0 difficulty.
+
+Useful facts for RAG:
+- The page gives a department-level comparison of Caldwell CS professors.
+- Vladislav Veksler has the highest visible quality rating among these listed professors.
+- Arnold Toffler has the highest visible number of ratings among these listed professors.
+- Gary Lieberman has the highest visible difficulty score among these listed professors.

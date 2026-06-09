@@ -1,0 +1,11 @@
+Source Name: Adriana Wise Reviews
+Source Type: Rate My Professors
+URL or Description: Rate My Professors page for Adriana Wise at Caldwell University
+
+Content:
+Adriana Wise is listed on Rate My Professors for Caldwell University. The visible review notes are negative. A student describes the class as difficult and says the professor read from a document for much of the semester. The review says homework due dates were unclear and exams were very difficult. The review also says the professor filled the board with equations and expected students to follow along. Attendance was taken every class.
+
+Useful facts for RAG:
+- Professor: Adriana Wise
+- Common themes: difficult exams, unclear homework due dates, lecture-heavy, lots of homework, attendance required
+- This source is useful for questions about difficult classes or negative student experiences.

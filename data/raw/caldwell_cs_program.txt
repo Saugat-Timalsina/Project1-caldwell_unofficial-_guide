@@ -1,0 +1,33 @@
+Source Name: Caldwell University Computer Science Program
+Source Type: Official Caldwell University webpage
+URL or Description: https://www.caldwell.edu/programs/computer-science/
+
+Content:
+Caldwell University's Bachelor of Science in Computer Science prepares students for a technology career with a strong foundation in computer programming and focused electives.
+
+Important courses listed on the page include:
+- CS 195 Computer Programming I
+- CS 196 Computer Programming II
+- MA 140 Discrete Mathematical Structures
+- MA 311 Probability and Statistics I
+- CS 225 Introduction to Operating Systems
+- CS 230 Front-End Web Development
+- CS 231 Responsible Technology in a Digital Society
+- CS 238 E-Commerce
+- CS 240 Windows Programming
+- CS 327 Internet and Enterprise Security
+- CS 332 Student Information Technology Experiential Learning
+- CS 334 Computer Forensics I
+- CS 340 Introduction to Data Science
+- CS 355 Full-Stack Web Development
+- CS 360 Mobile Development
+- CS 415 Computational Models and Simulations
+- CS 420 Artificial Intelligence
+- CS 487 Field Internship I
+- CS 491 Undergraduate Research I
+
+Useful facts for RAG:
+- The CS major includes programming, systems, web development, data science, AI, internship, and research opportunities.
+- CS 195 and CS 196 are foundational programming courses.
+- CS 340 is the data science course.
+- CS 420 is the artificial intelligence course.

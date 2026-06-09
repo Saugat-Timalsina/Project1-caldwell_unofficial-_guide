@@ -1,0 +1,18 @@
+Source Name: Caldwell University Computer Science and Information Systems Faculty and Staff
+Source Type: Official Caldwell University webpage
+URL or Description: Caldwell University faculty and staff page for School of Business and Computer Science
+
+Content:
+The Caldwell University faculty and staff information gives official background about people in the School of Business and Computer Science.
+
+Salvatore Ferraro is listed as Associate Professor and Chair. His background includes management information systems, organizational leadership, and professional experience across manufacturing, telecommunications, healthcare, shipping, and aerospace.
+
+Steven E. Kreutzer is listed as Associate Professor of Computer Science. His background includes computer science education and a long industry career. His professional experience includes product management, business analysis, software development, and project management. The faculty page says he has taught more than a dozen computer science courses and focuses on preparing students for successful careers.
+
+Bella Veskler is listed as an Adjunct Lecturer. Her background includes computer science, psychology, and cognitive science.
+
+Useful facts for RAG:
+- The faculty page provides official faculty background information.
+- Steven Kreutzer has software development, business analysis, product management, and project management experience.
+- Salvatore Ferraro has MIS and broad industry experience.
+- Bella Veskler has computer science and cognitive science background.

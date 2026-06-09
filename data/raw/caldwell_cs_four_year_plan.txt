@@ -1,0 +1,33 @@
+Source Name: Caldwell University Computer Science Suggested Four-Year Major Plan
+Source Type: Official Caldwell University PDF/course planning document
+URL or Description: Caldwell University Computer Science suggested four-year major plan PDF
+
+Content:
+The Caldwell University Computer Science suggested four-year major plan lists major requirements for the Bachelor of Science in Computer Science.
+
+Courses shown in the plan include:
+- CS 195 Computer Programming I
+- CS 196 Computer Programming II
+- CS 216 Data Structures and Algorithms
+- CS 225 Operating Systems
+- CS 301 Computer Organization and Architecture
+- CS 302 Design and Analysis of Algorithms
+- CS 320 Networking and Communications
+- CS 322 Programming Languages and Paradigms
+- CS 420 Artificial Intelligence
+- CS 450 Software Engineering
+- CS 200+ electives at the 200 level or higher
+- CS 487 Internship, encouraged
+
+The plan also mentions:
+- Total credits required minimum: 120 credits
+- Minimum GPA: 2.0
+- Minimum grade in major courses: C
+- Students may need CS 115 Essential Computer Skills before beginning the Computer Science major sequence if they do not pass the waiver test.
+
+Useful facts for RAG:
+- The four-year plan gives official course sequence context.
+- CS 216 is Data Structures and Algorithms.
+- CS 420 is Artificial Intelligence.
+- CS 450 is Software Engineering.
+- CS 487 Internship is encouraged.

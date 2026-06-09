@@ -1,0 +1,32 @@
+Source Name: Caldwell University Computer Science and Information Systems Department
+Source Type: Official Caldwell University webpage
+URL or Description: https://www.caldwell.edu/academics/academic-departments/dept-computer-science-info-systems/
+
+Content:
+The Computer Science and Information Systems Department at Caldwell University equips students with skills, competencies, and mindsets needed to succeed in technology. The department says faculty combine professional experience with academic expertise and bring real-world experience into the classroom.
+
+The department lists several pathways.
+
+Majors:
+- Computer Science
+- Computer Information Systems
+- Business Analytics
+
+Minors:
+- Computer Science
+- Management Information Systems
+- Business Analytics
+- Human-Computer Interaction
+
+The department also mentions Caldwell C-STEM Laboratories. C-STEM supports Computational STEM programs, including artificial intelligence and neuroscience research, software development, robotics and engineering projects, clubs, workshops, competitions, and events.
+
+Student clubs and activities mentioned include:
+- Google Developers Group on Campus
+- Robotics Club
+- Computer Science Club
+- Women in STEM Club
+- Science Club
+
+Useful facts for RAG:
+- Caldwell offers CS-related majors and minors.
+- The department connects CS with business analytics, MIS, HCI, AI, neuroscience research, robotics, software development, and student clubs.

@@ -1,0 +1,18 @@
+Source Name: Vladislav Veksler Reviews
+Source Type: Rate My Professors
+URL or Description: Rate My Professors page for Vladislav Veksler at Caldwell University
+
+Content:
+Vladislav Veksler is listed as a Computer Science professor at Caldwell University. The Rate My Professors Computer Science department page lists Vladislav Veksler with a quality rating of 5.0 based on 4 ratings, 100% would take again, and a 1.3 level of difficulty.
+
+Student review notes are very positive. Review themes include amazing lectures, being accessible outside class, giving good feedback, being inspirational, and using group projects. Student comments describe him as helpful and accessible. Several comments connect him with CS195 and CS242.
+
+Useful facts for RAG:
+- Professor: Vladislav Veksler
+- Department: Computer Science
+- Quality rating: 5.0 / 5
+- Ratings count: 4
+- Would take again: 100%
+- Difficulty: 1.3
+- Common themes: amazing lectures, accessible outside class, gives good feedback, inspirational, group projects
+- Courses mentioned: CS195, CS242
